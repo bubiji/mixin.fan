@@ -909,10 +909,10 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
-"@foxone/icons@^3.0.1-51":
-  version "3.0.1-53"
-  resolved "https://registry.yarnpkg.com/@foxone/icons/-/icons-3.0.1-53.tgz#3df1c65b5791e7b1fe53831913d6663134758d56"
-  integrity sha512-/iqhdg1B8MeRjKXxfkqwn3U1s8db5mzSJGoQvMum1j+tybigqM7BsL6H1eB48HO9FFV9ZEdvJO8k5orVsH5loA==
+"@foxone/icons@^3.1.9":
+  version "3.1.9"
+  resolved "https://registry.yarnpkg.com/@foxone/icons/-/icons-3.1.9.tgz#2dce28e0917041d6bcf7f58c24a425ba61d2abb7"
+  integrity sha512-W1x9UxZjpTeeqiQQN7LxTg4UD9uij6aLdQd0NHedy1IwZrwohjoKMrBs5TQZzU+8kgkjj0cUsKkFMsFY6erOhg==
 
 "@foxone/mixin-sdk-jsbridge@^0.5.0":
   version "0.5.0"
